@@ -30,3 +30,5 @@ Name: Keerthika
 
 Register no: 25017601
 
+Result: Thus, the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
+
